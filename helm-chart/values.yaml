@@ -1,2 +1,3 @@
 image: wordpress:4.6.1-apache
 provisionPolicy: ProvisionNewCluster
+s3bucket: s3bucket-test-quay.krish.redhat.com
